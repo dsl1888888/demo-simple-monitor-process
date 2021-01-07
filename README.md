@@ -8,7 +8,7 @@ a simple server monitor
 
 
 
-#use method 
+# use method 
 
 1. update checkDomain.json ,replace data that you need to monitor domain&port
 2. replace the gmail account
