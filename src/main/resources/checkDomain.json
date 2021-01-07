@@ -1,0 +1,10 @@
+[
+    {
+        "domain": "127.0.0.1",
+        "port": 80
+    },
+    {
+        "domain": "www.baidu.com",
+        "port": 80
+    }
+]
